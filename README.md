@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logpost/src/logpost/logpost.png" width="50" />
+  <img src="logpost/src/logpost/Logpost.png" width="120" />
 </p>
 <h1 align="center">Circle Logpost✨</h1>
 <h3 align="center">Circle Management Application</h3>
